@@ -1,14 +1,18 @@
 # Content Creation mit generativer KI: Begleitmaterialien zum Buch
 
 [![CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
-[![Website zum Buch](https://img.shields.io/badge/Companion%20Site-alexloth.com-blue)](https://alexloth.com/ki-buch/)
+[![Website zum Buch](https://img.shields.io/badge/Companion%20Site-GitHub%20Pages-blue)](https://aloth.github.io/Generative-KI-Buch-Begleitmaterialien/)
 [![Follow on X](https://img.shields.io/twitter/follow/DasBuch?style=social)](https://x.com/DasBuch)
 [![KI-Ethik & Deepfakes](https://img.shields.io/badge/KI--Ethik_%26_Deepfakes-Kapitel_12-8A2BE2)](kapitel-12-die-ethik-von-ki-generierten-inhalten)
 
 > **Offizielle Beispiele, Prompt-Vorlagen und Ressourcen zum Buch *Content Creation mit generativer KI*.**
 > Alles, was Sie brauchen, um die Konzepte aus dem Buch direkt auszuprobieren.
 
-**Buch kaufen:** [mitp](https://www.mitp.de/) · Mehr Infos auf der [Buch-Website](https://alexloth.com/ki-buch/)
+<p align="center">
+  <img src="assets/content-creation-mit-generativer-ki-cover.jpg" alt="Buchcover: Content Creation mit generativer KI" width="420" />
+</p>
+
+**Buch kaufen:** [mitp](https://www.mitp.de/BUSINESS/Content-Creation-mit-generativer-KI.html) · Mehr Infos auf der [Buch-Website](https://aloth.github.io/Generative-KI-Buch-Begleitmaterialien/)
 
 ---
 
@@ -23,15 +27,6 @@ Das Buch richtet sich an Einsteiger wie auch an Profis und erfordert weder Progr
 - **1. Auflage 2026**
 - **ISBN:** 978-3-7475-1000-1
 
-> **Hinweis:** Dieses Buch war ursprünglich als zweite Auflage von *KI für Content Creation* geplant. Im Verlauf der Arbeit ist daraus ein eigenständiges Buch mit neuem Titel, neuer Struktur und neuer ISBN geworden. Die Begleitmaterialien zum Vorgängerbuch finden Sie weiterhin unter [KI-Buch-Begleitmaterialien](https://github.com/aloth/KI-Buch-Begleitmaterialien).
-
----
-
-## 🎁 Exklusive Partner-Angebote
-
-Als Leserin oder Leser dieses Buches erhalten Sie Zugang zu exklusiven Vorteilen und Angeboten.
-
-🔗 **[Zu den Partner-Angeboten](PARTNER_ANGEBOTE.md)**
 
 ---
 
