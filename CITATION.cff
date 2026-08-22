@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this book in your research, please cite it as below."
+type: book
+title: "Content Creation mit generativer KI"
+authors:
+  - family-names: Loth
+    given-names: Alexander
+    orcid: https://orcid.org/0009-0003-9327-6865
+  - family-names: Bossenz
+    given-names: Dilyana
+date-released: 2026-01-01
+year: 2026
+publisher:
+  name: mitp
+  city: Frechen
+edition: "1"
+isbn: 978-3-7475-1000-1
+url: https://github.com/aloth/Generative-KI-Buch-Begleitmaterialien
+repository-code: https://github.com/aloth/Generative-KI-Buch-Begleitmaterialien
+keywords:
+  - artificial intelligence
+  - generative AI
+  - content creation
+  - ChatGPT
+  - Microsoft Copilot
+  - prompt engineering
+license: CC-BY-4.0
