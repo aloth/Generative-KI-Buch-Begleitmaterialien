@@ -89,15 +89,17 @@ Wenn Sie Inhalte aus *Content Creation mit generativer KI* in wissenschaftlichen
 
 ```bibtex
 @book{loth2026generativeki,
-  title      = {Content Creation mit generativer KI},
+  title      = {Content Creation mit generativer {KI}},
   shorttitle = {Content Creation mit generativer KI},
   author     = {Loth, Alexander and Bossenz, Dilyana},
   year       = {2026},
-  publisher  = {mitp},
-  address    = {Frechen},
   edition    = {1},
+  publisher  = {mitp},
+  address    = {Frechen, Germany},
   isbn       = {978-3-7475-1000-1},
-  url        = {https://github.com/aloth/Generative-KI-Buch-Begleitmaterialien}
+  langid     = {german},
+  url        = {https://www.mitp.de/BUSINESS/Content-Creation-mit-generativer-KI.html},
+  urldate    = {2026-08-25}
 }
 ```
 
